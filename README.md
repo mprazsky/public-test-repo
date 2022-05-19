@@ -1,2 +1,2 @@
-# publice-test-repo
+# public-test-repo
 test repo for public access
